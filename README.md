@@ -1,5 +1,5 @@
 <h1>Hello, I'm Matheus Lemes! 👋</h1>  
-<h3>I´m a software enginering student at University of Brasília(UnB), </h3>
+<h3>I´m a software engineering student at University of Brasília(UnB), </h3>
 
 <h3>🧑‍💻 My most used langs</h3>
   <ol>
