@@ -1,7 +1,7 @@
 <h1>Hello, I'm Matheus Lemes! 👋</h1>  
 <h3>I´m a software engineering student at University of Brasília(UnB), </h3>
 
-<h3>🧑‍💻 My most used langs</h3>
+<h3>🧑‍💻 My Interests</h3>
   <ol>
     <p>C language applied to embedded, games and algorithms;</p>
     <p>C++ language applied to embedded and computacional vision;</p>
