@@ -8,13 +8,27 @@
 
 ---
 
-### 🔧 My Technologies and Tools:
+
+### 🔧 Main Technologies and Tools:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)}
+![Pop!_OS](https://img.shields.io/badge/Pop!_OS-%2348B9C7?style=for-the-badge&logo=popos&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Game Development](https://img.shields.io/badge/Game%20Development-800080?style=for-the-badge&logoColor=white)
+
+
+### 🔧 Others Technologies and Tools:
+
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -31,28 +45,19 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-%234285F4?style=for-the-badge&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-%2300A494?style=for-the-badge&logo=pytest&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-%23A80030?style=for-the-badge&logo=debian&logoColor=white)
-![Pop!_OS](https://img.shields.io/badge/Pop!_OS-%2348B9C7?style=for-the-badge&logo=popos&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-%2387CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 ![Raspberry Pi OS](https://img.shields.io/badge/Raspberry%20Pi%20OS-%23C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-%2347A141?style=for-the-badge&logo=overleaf&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-%23E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![UI Design](https://img.shields.io/badge/UI%20Design-%23FF007A?style=for-the-badge&logoColor=white)
 ![UX Design](https://img.shields.io/badge/UX%20Design-%2300C4CC.svg?style=for-the-badge&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Game Development](https://img.shields.io/badge/Game%20Development-800080?style=for-the-badge&logoColor=white)
 ![XP (Extreme Programming)](https://img.shields.io/badge/XP%20(Extreme%20Programming)-green?style=for-the-badge&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-black?style=for-the-badge&logo=scrumalliance&logoColor=white)
 <p align="center">
