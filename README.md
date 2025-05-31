@@ -6,6 +6,8 @@
 #### C++ language applied to embedded and computational vision;
 #### Python applied to artificial intelligence and games.
 
+---
+
 ### 🔧 My Technologies and Tools:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -29,10 +31,12 @@
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-%2348B9C7?style=for-the-badge&logo=popos&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-%2387CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-%2347A141?style=for-the-badge&logo=overleaf&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-%23E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -40,6 +44,9 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Game Development](https://img.shields.io/badge/Game%20Development-800080?style=for-the-badge&logoColor=white)
+![XP (Extreme Programming)](https://img.shields.io/badge/XP%20(Extreme%20Programming)-green?style=for-the-badge&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-black?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
 <p align="center">
   <a href="https://github.com/matheuslemesam">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=matheuslemesam&show_icons=true&theme=transparent" />
@@ -49,9 +56,11 @@
   </a>
 </p>
 
+---
+
 ### :speech_balloon: Contact me
 
-<p align="left"> 
+<p align="left">
   <a href="mailto:matheuslemesam@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
