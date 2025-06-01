@@ -44,6 +44,7 @@
 ![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-%234285F4?style=for-the-badge&logoColor=white)
+![Object-Oriented Programming](https://img.shields.io/badge/Object--Oriented%20Programming-%2338B2AC?style=for-the-badge&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-%2300A494?style=for-the-badge&logo=pytest&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-%23A80030?style=for-the-badge&logo=debian&logoColor=white)
