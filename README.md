@@ -28,6 +28,7 @@
 
 ### 🔧 Others Technologies and Tools:
 
+<!--
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -69,7 +70,7 @@
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslemesam&hide_progress=true&theme=transparent" />
   </a>
 </p>
-
+-->
 ---
 
 
