@@ -20,10 +20,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Game Development](https://img.shields.io/badge/Game%20Development-800080?style=for-the-badge&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-%23007ACC?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Fullstack Web](https://img.shields.io/badge/Fullstack_Web-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 <!--
 ### 🔧 Others Technologies and Tools:
@@ -49,6 +50,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-%23A80030?style=for-the-badge&logo=debian&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-%2387CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Raspberry Pi OS](https://img.shields.io/badge/Raspberry%20Pi%20OS-%23C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-%2347A141?style=for-the-badge&logo=overleaf&logoColor=white)
