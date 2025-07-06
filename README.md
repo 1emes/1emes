@@ -25,6 +25,7 @@
 ![Game Development](https://img.shields.io/badge/Game%20Development-800080?style=for-the-badge&logoColor=white)
 ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-%23007ACC?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Fullstack Web](https://img.shields.io/badge/Fullstack_Web-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-FF9900?style=for-the-badge&logo=apacheiotdb&logoColor=white)
 
 <!--
 ### 🔧 Others Technologies and Tools:
