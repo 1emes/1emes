@@ -67,7 +67,7 @@
 
 -->
 
-<p align="center">
+<p>
   <a href="https://github.com/matheuslemesam">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=matheuslemesam&show_icons=true&theme=transparent" />
   </a>
