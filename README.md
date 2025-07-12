@@ -65,6 +65,8 @@
 ![XP (Extreme Programming)](https://img.shields.io/badge/XP%20(Extreme%20Programming)-green?style=for-the-badge&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-black?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
+-->
+
 <p align="center">
   <a href="https://github.com/matheuslemesam">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=matheuslemesam&show_icons=true&theme=transparent" />
@@ -73,7 +75,7 @@
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslemesam&hide_progress=true&theme=transparent" />
   </a>
 </p>
--->
+
 
 
 ### :speech_balloon: Contact me
