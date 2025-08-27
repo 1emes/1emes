@@ -1,6 +1,14 @@
 # Hello, I'm Matheus Lemes! 👋
 ### I'm a software engineering student at University of Brasília (UnB).
 
+---
+
+### 🚀 My Projects and Teams:
+#### 🛰️ Member of the Gama CubeDesign team, working with remote sensing;
+#### 🛰️ Member of the Laboratory of Space Systems at University of Brasília (LaSE-UnB), working with On-Board Data and Handling (OBDH);
+
+---
+
 ### 💻 My Interests:
 #### C language applied to embedded, games, and algorithms;
 #### C++ language applied to embedded and computational vision;
