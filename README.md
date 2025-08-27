@@ -5,7 +5,7 @@
 
 ### 🚀 My Projects and Teams:
 #### 🛰️ Member of the Gama CubeDesign team, working with remote sensing;
-#### 🛰️ Member of the Laboratory of Space Systems at University of Brasília (LaSE-UnB), working with On-Board Data and Handling (OBDH);
+#### 🛰️ Member of the Laboratory of Space Systems at University of Brasília (LaSE-UnB), working in Sapiens-1 with On-Board Data and Handling (OBDH);
 
 ---
 
