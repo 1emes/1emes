@@ -10,9 +10,9 @@
 ---
 
 ### 💻 My Interests:
-#### C language applied to embedded, games, and algorithms;
+#### C language applied to embedded, and algorithms;
 #### C++ language applied to embedded and computational vision;
-#### Python applied to artificial intelligence and games.
+#### Python applied to deep learning and games.
 
 ---
 
