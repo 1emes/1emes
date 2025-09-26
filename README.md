@@ -8,12 +8,12 @@
 #### 🛰️ Member of the Laboratory of Space Systems at University of Brasília (LaSE-UnB), working in Sapiens-1 with On-Board Data and Handling (OBDH);
 
 ---
-
+<!--
 ### 💻 My Interests:
 #### C language applied to embedded, and algorithms;
 #### C++ language applied to embedded and computational vision;
 #### Python applied to deep learning and computational vision.
-
+-->
 ---
 
 
