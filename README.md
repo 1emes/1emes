@@ -13,9 +13,8 @@
 #### C language applied to embedded, and algorithms;
 #### C++ language applied to embedded and computational vision;
 #### Python applied to deep learning and computational vision.
--->
 ---
-
+-->
 
 ### 🔧 Main Technologies and Tools:
 
