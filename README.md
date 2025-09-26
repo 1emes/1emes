@@ -75,12 +75,12 @@
 
 -->
 
-<p>
+<p align="center">
   <a href="https://github.com/matheuslemesam">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=matheuslemesam&show_icons=true&theme=transparent" />
+    <img height="180" width="420" src="https://github-readme-stats.vercel.app/api?username=matheuslemesam&show_icons=true&theme=transparent" />
   </a>
   <a href="https://github.com/matheuslemesam">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslemesam&hide_progress=true&theme=transparent" />
+    <img height="177" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslemesam&hide_progress=true&theme=transparent" />
   </a>
 </p>
 
