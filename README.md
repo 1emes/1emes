@@ -12,7 +12,7 @@
 ### 💻 My Interests:
 #### C language applied to embedded, and algorithms;
 #### C++ language applied to embedded and computational vision;
-#### Python applied to deep learning and games.
+#### Python applied to deep learning and computational vision.
 
 ---
 
@@ -31,7 +31,6 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Game Development](https://img.shields.io/badge/Game%20Development-800080?style=for-the-badge&logoColor=white)
 ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-%23007ACC?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Fullstack Web](https://img.shields.io/badge/Fullstack_Web-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-FF9900?style=for-the-badge&logo=apacheiotdb&logoColor=white)
