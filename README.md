@@ -36,10 +36,10 @@
 
 <p align="center">
   <a href="https://github.com/matheuslemesam">
-    <img height="180" width="420" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheuslemesam&show_icons=true&theme=transparent" />
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheuslemesam&show_icons=true&theme=dark&bg_color=000000&hide_border=true" />
   </a>
   <a href="https://github.com/matheuslemesam">
-    <img height="177" width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheuslemesam&hide_progress=true&theme=transparent" />
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheuslemesam&layout=compact&theme=dark&bg_color=000000&hide_border=true" />
   </a>
 </p>
 
