@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="./README.md"><b>🇺🇸 English</b></a> · <a href="./README.pt-br.md">🇧🇷 Português</a>
+  <a href="./README.md">🇺🇸 English</a> · <a href="./README.pt-br.md"><b>🇧🇷 Português</b></a>
 </p>
 
 <p align="center">
@@ -7,37 +7,37 @@
 </p>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=120&lines=Matheus+Lemes;AI+%E2%80%A2+Fullstack+%E2%80%A2+Embedded;Software+Engineering+%40+UnB" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=120&lines=Matheus+Lemes;IA+%E2%80%A2+Fullstack+%E2%80%A2+Embarcados;Eng.+de+Software+%40+UnB" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
-  <samp>const aboutMe = { "focus": "Artificial Intelligence 🤖", "stack": ["TypeScript", "React", "Node"], "location": "Brasília, Brazil 🇧🇷" }</samp>
+  <samp>const sobreMim = { "foco": "Inteligência Artificial 🤖", "stack": ["TypeScript", "React", "Node"], "local": "Brasília, Brasil 🇧🇷" }</samp>
 </p>
 
 ---
 
-### <samp>&gt; cat about.md</samp>
+### <samp>&gt; cat sobre.md</samp>
 
-Software Engineering student at the **University of Brasília (UnB)** and member of the **Laboratory of Space Systems (LaSE-UnB)**, working on the **Sapiens-1** satellite mission in the **On-Board Data and Handling (OBDH)** subsystem. 🛰️
+Estudante de **Engenharia de Software** na **Universidade de Brasília (UnB)** e membro do **Laboratório de Sistemas Espaciais (LaSE-UnB)**, atuando na missão do satélite **Sapiens-1** no subsistema de **Tratamento de Dados de Bordo (OBDH)**. 🛰️
 
-Currently focused on **Artificial Intelligence**, with a strong background in **embedded systems** and **computer vision**, and hands-on experience building fullstack applications with modern web technologies.
+Atualmente focado em **Inteligência Artificial**, com bagagem sólida em **sistemas embarcados** e **visão computacional**, além de experiência prática construindo aplicações fullstack com tecnologias web modernas.
 
 <details>
-<summary><samp>📖 &nbsp;More about my background</samp></summary>
+<summary><samp>📖 &nbsp;Mais sobre minha trajetória</samp></summary>
 
-- 🎓 Software Engineering @ UnB
+- 🎓 Engenharia de Software @ UnB
 - 🛰️ OBDH @ Sapiens-1 (LaSE-UnB)
-- 🤖 Currently diving deeper into deep learning & AI
-- 💻 Also comfortable across the stack: TypeScript, React & Node
-- 🐧 Linux & open-source enthusiast
+- 🤖 Mergulhando cada vez mais fundo em deep learning & IA
+- 💻 Também movo-me bem pelo stack: TypeScript, React & Node
+- 🐛 Entusiasta de Linux & open-source
 
 </details>
 
 ---
 
-### <samp>&gt; ls tech-stack/</samp>
+### <samp>&gt; ls stack-tecnologico/</samp>
 
-<h4><samp>&nbsp;🤖 &nbsp;AI / Machine Learning</samp></h4>
+<h4><samp>&nbsp;🤖 &nbsp;IA / Aprendizado de Máquina</samp></h4>
 <p>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -45,7 +45,7 @@ Currently focused on **Artificial Intelligence**, with a strong background in **
   <img src="https://img.shields.io/badge/OpenCV-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
-<h4><samp>&nbsp;🌐 &nbsp;Web Development</samp></h4>
+<h4><samp>&nbsp;🌐 &nbsp;Desenvolvimento Web</samp></h4>
 <p>
   <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -53,7 +53,7 @@ Currently focused on **Artificial Intelligence**, with a strong background in **
   <img src="https://img.shields.io/badge/Fullstack_Web-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Fullstack Web" />
 </p>
 
-<h4><samp>&nbsp;💾 &nbsp;Languages</samp></h4>
+<h4><samp>&nbsp;💾 &nbsp;Linguagens</samp></h4>
 <p>
   <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -61,15 +61,15 @@ Currently focused on **Artificial Intelligence**, with a strong background in **
   <img src="https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
-<h4><samp>&nbsp;🔧 &nbsp;Embedded & Systems</samp></h4>
+<h4><samp>&nbsp;🔧 &nbsp;Embarcados & Sistemas</samp></h4>
 <p>
-  <img src="https://img.shields.io/badge/Embedded%20Systems-%23007ACC?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Embedded Systems" />
+  <img src="https://img.shields.io/badge/Embarcados-%23007ACC?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Sistemas Embarcados" />
   <img src="https://img.shields.io/badge/IoT-FF9900?style=for-the-badge&logo=apacheiotdb&logoColor=white" alt="IoT" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Vim-%23007ACC?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
 </p>
 
-<h4><samp>&nbsp;🛠️ &nbsp;Tools</samp></h4>
+<h4><samp>&nbsp;🛠️ &nbsp;Ferramentas</samp></h4>
 <p>
   <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -77,17 +77,17 @@ Currently focused on **Artificial Intelligence**, with a strong background in **
 
 ---
 
-### <samp>&gt; ./render-contributions.sh</samp>
+### <samp>&gt; ./renderizar-contribuicoes.sh</samp>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="github contribution grid snake animation" src="./assets/github-contribution-grid-snake-dark.svg" />
+  <img width="100%" alt="animação do grafo de contribuições do github" src="./assets/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 ---
 
-### <samp>&gt; git stats --user=matheuslemesam</samp>
+### <samp>&gt; git stats --usuario=matheuslemesam</samp>
 
 <p align="center">
   <a href="https://github.com/matheuslemesam">
@@ -115,5 +115,5 @@ Currently focused on **Artificial Intelligence**, with a strong background in **
 </p>
 
 <p align="center">
-  <samp>&gt; echo "Thanks for stopping by! ⭐"</samp>
+  <samp>&gt; echo "Obrigado pela visita! ⭐"</samp>
 </p>
