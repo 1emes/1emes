@@ -11,7 +11,7 @@
 </h1>
 
 <p align="center">
-  <samp>const aboutMe = { "focus": "Artificial Intelligence 🤖", "stack": ["TypeScript", "React", "Node"], "location": "Brasília, Brazil 🇧🇷" }</samp>
+  <samp>🤖 AI-focused · TypeScript · React · Node.js · 📍 Brasília, Brazil</samp>
 </p>
 
 ---
@@ -71,6 +71,7 @@ Currently focused on **Artificial Intelligence**, with a strong background in **
 
 <h4><samp>&nbsp;🛠️ &nbsp;Tools</samp></h4>
 <p>
+  <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
