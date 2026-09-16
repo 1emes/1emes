@@ -88,14 +88,14 @@ Currently focused on **Artificial Intelligence**, with a strong background in **
 
 ---
 
-### <samp>&gt; git stats --user=matheuslemesam</samp>
+### <samp>&gt; git stats --user=1emes</samp>
 
 <p align="center">
-  <a href="https://github.com/matheuslemesam">
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheuslemesam&show_icons=true&bg_color=0d1117&title_color=00FF9C&icon_color=3fb950&text_color=c9d1d9&hide_border=true&theme=chartreuse-dark" />
+  <a href="https://github.com/1emes">
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=1emes&show_icons=true&bg_color=0d1117&title_color=00FF9C&icon_color=3fb950&text_color=c9d1d9&hide_border=true&theme=chartreuse-dark" />
   </a>
-  <a href="https://github.com/matheuslemesam">
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheuslemesam&layout=compact&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9&hide_border=true&theme=chartreuse-dark" />
+  <a href="https://github.com/1emes">
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1emes&layout=compact&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9&hide_border=true&theme=chartreuse-dark" />
   </a>
 </p>
 
@@ -110,7 +110,7 @@ Currently focused on **Artificial Intelligence**, with a strong background in **
   <a href="https://www.linkedin.com/in/matheus-lemes-amaral-877a71309/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/matheuslemesam" target="_blank">
+  <a href="https://github.com/1emes" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
