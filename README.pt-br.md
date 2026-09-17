@@ -22,6 +22,10 @@ Estudante de **Engenharia de Software** na **Universidade de Brasília (UnB)** e
 
 Atualmente focado em **Inteligência Artificial**, com bagagem sólida em **sistemas embarcados** e **visão computacional**, além de experiência prática construindo aplicações fullstack com tecnologias web modernas.
 
+<p align="center">
+  <a href="https://matheus-lemes.matheuslemesam.chatgpt.site"><img src="https://img.shields.io/badge/↗_Visite_meu_portfólio-00FF9C?style=for-the-badge&logoColor=0d1117&labelColor=0d1117&color=00FF9C" alt="Visite meu portfólio" /></a>
+</p>
+
 <details>
 <summary><samp>📖 &nbsp;Mais sobre minha trajetória</samp></summary>
 
@@ -88,14 +92,14 @@ Atualmente focado em **Inteligência Artificial**, com bagagem sólida em **sist
 
 ---
 
-### <samp>&gt; git stats --usuario=matheuslemesam</samp>
+### <samp>&gt; git stats --usuario=1emes</samp>
 
 <p align="center">
-  <a href="https://github.com/matheuslemesam">
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheuslemesam&show_icons=true&bg_color=0d1117&title_color=00FF9C&icon_color=3fb950&text_color=c9d1d9&hide_border=true&theme=chartreuse-dark" />
+  <a href="https://github.com/1emes">
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1emes&theme=github_dark" alt="Estatísticas do GitHub" />
   </a>
-  <a href="https://github.com/matheuslemesam">
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheuslemesam&layout=compact&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9&hide_border=true&theme=chartreuse-dark" />
+  <a href="https://github.com/1emes">
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1emes&theme=github_dark" alt="Linguagens mais usadas" />
   </a>
 </p>
 
@@ -110,7 +114,7 @@ Atualmente focado em **Inteligência Artificial**, com bagagem sólida em **sist
   <a href="https://www.linkedin.com/in/matheus-lemes-amaral-877a71309/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/matheuslemesam" target="_blank">
+  <a href="https://github.com/1emes" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>

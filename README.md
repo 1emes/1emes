@@ -22,6 +22,10 @@ Software Engineering student at the **University of Brasília (UnB)** and member
 
 Currently focused on **Artificial Intelligence**, with a strong background in **embedded systems** and **computer vision**, and hands-on experience building fullstack applications with modern web technologies.
 
+<p align="center">
+  <a href="https://matheus-lemes.matheuslemesam.chatgpt.site"><img src="https://img.shields.io/badge/↗_Visit_my_portfolio-00FF9C?style=for-the-badge&logoColor=0d1117&labelColor=0d1117&color=00FF9C" alt="Visit my portfolio" /></a>
+</p>
+
 <details>
 <summary><samp>📖 &nbsp;More about my background</samp></summary>
 
@@ -92,10 +96,10 @@ Currently focused on **Artificial Intelligence**, with a strong background in **
 
 <p align="center">
   <a href="https://github.com/1emes">
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=1emes&show_icons=true&bg_color=0d1117&title_color=00FF9C&icon_color=3fb950&text_color=c9d1d9&hide_border=true&theme=chartreuse-dark" />
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1emes&theme=github_dark" alt="GitHub statistics" />
   </a>
   <a href="https://github.com/1emes">
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1emes&layout=compact&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9&hide_border=true&theme=chartreuse-dark" />
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1emes&theme=github_dark" alt="Most used programming languages" />
   </a>
 </p>
 
