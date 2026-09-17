@@ -14,11 +14,21 @@
   <samp>🤖 Foco em IA · TypeScript · React · Node.js · 📍 Brasília, Brasil</samp>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=1200&color=00FF9C&center=true&vCenter=true&width=680&lines=Construindo+no+Laborat%C3%B3rio+C%C3%A9u+Aberto;Explorando+deep+learning+%2B+vis%C3%A3o+computacional;Transformando+curiosidade+em+software" alt="Foco atual" />
+</p>
+
+<p align="center">
+  <a href="https://matheus-lemes.matheuslemesam.chatgpt.site"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-00FF9C?style=flat-square&labelColor=0d1117&logoColor=0d1117" alt="Portfólio" /></a>
+  <a href="https://github.com/1emes?tab=repositories"><img src="https://img.shields.io/badge/PROJETOS-00FF9C?style=flat-square&labelColor=0d1117&logoColor=0d1117" alt="Projetos" /></a>
+  <a href="https://www.linkedin.com/in/matheus-lemes-amaral-877a71309/"><img src="https://img.shields.io/badge/LINKEDIN-00FF9C?style=flat-square&labelColor=0d1117&logoColor=0d1117" alt="LinkedIn" /></a>
+</p>
+
 ---
 
 ### <samp>&gt; cat sobre.md</samp>
 
-Estudante de **Engenharia de Software** na **Universidade de Brasília (UnB)** e membro do **Laboratório de Sistemas Espaciais (LaSE-UnB)**, atuando na missão do satélite **Sapiens-1** no subsistema de **Tratamento de Dados de Bordo (OBDH)**. 🛰️
+Estudante de **Engenharia de Software** na **Universidade de Brasília (UnB)** e contribuidor do **Laboratório Céu Aberto**, trabalhando com **missões de balões estratosféricos**, sistemas embarcados, telemetria e acompanhamento de missões. 🎈
 
 Atualmente focado em **Inteligência Artificial**, com bagagem sólida em **sistemas embarcados** e **visão computacional**, além de experiência prática construindo aplicações fullstack com tecnologias web modernas.
 
@@ -30,7 +40,8 @@ Atualmente focado em **Inteligência Artificial**, com bagagem sólida em **sist
 <summary><samp>📖 &nbsp;Mais sobre minha trajetória</samp></summary>
 
 - 🎓 Engenharia de Software @ UnB
-- 🛰️ OBDH @ Sapiens-1 (LaSE-UnB)
+- 🎈 Contribuidor @ Laboratório Céu Aberto
+- 📡 Sistemas embarcados, telemetria e rastreamento de missões
 - 🤖 Mergulhando cada vez mais fundo em deep learning & IA
 - 💻 Também movo-me bem pelo stack: TypeScript, React & Node
 - 🐛 Entusiasta de Linux & open-source

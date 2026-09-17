@@ -14,11 +14,21 @@
   <samp>🤖 AI-focused · TypeScript · React · Node.js · 📍 Brasília, Brazil</samp>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=1200&color=00FF9C&center=true&vCenter=true&width=680&lines=Building+at+Laborat%C3%B3rio+C%C3%A9u+Aberto;Exploring+deep+learning+%2B+computer+vision;Turning+curiosity+into+software" alt="Current focus" />
+</p>
+
+<p align="center">
+  <a href="https://matheus-lemes.matheuslemesam.chatgpt.site"><img src="https://img.shields.io/badge/PORTFOLIO-00FF9C?style=flat-square&labelColor=0d1117&logoColor=0d1117" alt="Portfolio" /></a>
+  <a href="https://github.com/1emes?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-00FF9C?style=flat-square&labelColor=0d1117&logoColor=0d1117" alt="Projects" /></a>
+  <a href="https://www.linkedin.com/in/matheus-lemes-amaral-877a71309/"><img src="https://img.shields.io/badge/LINKEDIN-00FF9C?style=flat-square&labelColor=0d1117&logoColor=0d1117" alt="LinkedIn" /></a>
+</p>
+
 ---
 
 ### <samp>&gt; cat about.md</samp>
 
-Software Engineering student at the **University of Brasília (UnB)** and member of the **Laboratory of Space Systems (LaSE-UnB)**, working on the **Sapiens-1** satellite mission in the **On-Board Data and Handling (OBDH)** subsystem. 🛰️
+Software Engineering student at the **University of Brasília (UnB)** and contributor at **Laboratório Céu Aberto**, working with **stratospheric balloon missions**, embedded systems, telemetry and mission tracking. 🎈
 
 Currently focused on **Artificial Intelligence**, with a strong background in **embedded systems** and **computer vision**, and hands-on experience building fullstack applications with modern web technologies.
 
@@ -30,7 +40,8 @@ Currently focused on **Artificial Intelligence**, with a strong background in **
 <summary><samp>📖 &nbsp;More about my background</samp></summary>
 
 - 🎓 Software Engineering @ UnB
-- 🛰️ OBDH @ Sapiens-1 (LaSE-UnB)
+- 🎈 Contributor @ Laboratório Céu Aberto
+- 📡 Embedded systems, telemetry and mission tracking
 - 🤖 Currently diving deeper into deep learning & AI
 - 💻 Also comfortable across the stack: TypeScript, React & Node
 - 🐧 Linux & open-source enthusiast
