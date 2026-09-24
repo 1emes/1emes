@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="48" viewBox="0 0 1200 48" role="img" aria-label="Atmospheric layers divider">
+<style>
+  .c { fill: none; stroke-width: 1.2; stroke-linecap: round; }
+  .dot { fill: #F3B66A; offset-path: path("M0 26 C300 13 900 13 1200 26"); offset-distance: 0%; animation: drift 18s ease-in-out infinite alternate; }
+  .halo { fill: #F3B66A; fill-opacity: .18; offset-path: path("M0 26 C300 13 900 13 1200 26"); offset-distance: 0%; animation: drift 18s ease-in-out infinite alternate; }
+  @keyframes drift { from { offset-distance: 4%; } to { offset-distance: 96%; } }
+  @media (prefers-reduced-motion: reduce) { .dot, .halo { animation: none; offset-distance: 62%; } }
+</style>
+<path class="c" d="M0 34 C300 22 900 22 1200 34" stroke="#57D9E8" stroke-opacity=".35"/>
+<path class="c" d="M0 26 C300 13 900 13 1200 26" stroke="#57D9E8" stroke-opacity=".6"/>
+<path class="c" d="M0 18 C300 4 900 4 1200 18" stroke="#B6A0FF" stroke-opacity=".45"/>
+<g stroke="#9AADC1" stroke-opacity=".5" stroke-width="1"><line x1="100" y1="40" x2="100" y2="46"/><line x1="300" y1="40" x2="300" y2="46"/><line x1="500" y1="40" x2="500" y2="46"/><line x1="700" y1="40" x2="700" y2="46"/><line x1="900" y1="40" x2="900" y2="46"/><line x1="1100" y1="40" x2="1100" y2="46"/></g>
+<circle class="halo" r="7"/>
+<circle class="dot" r="3"/>
+</svg>
