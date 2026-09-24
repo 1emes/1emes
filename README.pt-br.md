@@ -21,15 +21,15 @@
   <a href="https://www.linkedin.com/in/matheus-lemes-amaral-877a71309/">LinkedIn</a>
 </p>
 
-### 01 · Ponto de Partida &nbsp;<sub><samp>solo</samp></sub>
+### 01 · Sobre
 
 Sou estudante de Engenharia de Software na **Universidade de Brasília (UnB/FCTE)** e gosto mais de software quando ele toca o mundo físico.
 
-No **Laboratório Céu Aberto** trabalho com **missões de balões estratosféricos**: sistemas embarcados, telemetria e rastreamento de missão. Meu foco atual é **inteligência artificial**, especialmente **deep learning e visão computacional**, e construo aplicações fullstack com TypeScript, React e Node quando uma ideia precisa de interface.
+Meu foco atual é **inteligência artificial**, especialmente **deep learning e visão computacional**. Também trabalho com **sistemas embarcados e telemetria**, e construo aplicações fullstack com TypeScript, React e Node quando uma ideia precisa de interface.
 
-### 02 · Hardware de Missão &nbsp;<sub><samp>troposfera</samp></sub>
+### 02 · Laboratórios e Equipes
 
-- 🎈 **Laboratório Céu Aberto** — Missões de balões estratosféricos: sistemas embarcados, telemetria e rastreamento de missão.
+- 🔬 **Laboratório Céu Aberto** — Sistemas embarcados, telemetria e rastreamento para missões de alta altitude.
 - 🛰️ **GamaCube Design** — Equipe de CubeSat da UnB/FCTE: processo trainee de eletrônica e trabalhos de sensoriamento remoto.
 - 🔭 **LaSE · Sapiens-1** — Projeto do Laboratório de Sistemas Espaciais da UnB.
 
@@ -41,7 +41,7 @@ No **Laboratório Céu Aberto** trabalho com **missões de balões estratosféri
 </picture>
 </p>
 
-### 03 · Sinais em Destaque &nbsp;<sub><samp>tropopausa</samp></sub>
+### 03 · Projetos em Destaque
 
 **[MRI-segmentation](https://github.com/1emes/MRI-segmentation)** &nbsp;<sub><samp>Python · visão computacional</samp></sub><br />
 Detecção de tumores cerebrais em imagens de ressonância magnética.
@@ -66,7 +66,7 @@ Um sensor de temperatura DS18B20 em um microcontrolador ESP, servido por um serv
 
 </details>
 
-### 04 · Bancada de Instrumentos &nbsp;<sub><samp>estratosfera</samp></sub>
+### 04 · Stack
 
 <p align="center">
 <picture>
@@ -85,13 +85,7 @@ Um sensor de temperatura DS18B20 em um microcontrolador ESP, servido por um serv
   <tr><td><samp>Ambiente</samp></td><td><img src="https://img.shields.io/badge/Arch%20Linux-0B1220?style=flat-square&logo=archlinux&logoColor=1793D1" alt="Arch Linux" /> <img src="https://img.shields.io/badge/Hyprland-0B1220?style=flat-square&logo=hyprland&logoColor=58E1FF" alt="Hyprland" /> <img src="https://img.shields.io/badge/Vim-0B1220?style=flat-square&logo=vim&logoColor=019733" alt="Vim" /></td></tr>
 </table>
 
-### 05 · Ciclo de Trabalho &nbsp;<sub><samp>mesosfera</samp></sub>
-
-**Claude Code** e **OpenAI Codex** fazem parte do meu ciclo diário. Muitas vezes rodo os dois lado a lado: um ajuda a planejar e revisar enquanto o outro explora ou implementa em paralelo. As decisões de engenharia e a validação de cada resultado ficam comigo.
-
-<sub>Este README foi redesenhado exatamente assim: Claude e GPT-6 Astra debateram o conceito, o GPT Image 2.5 pintou o hero e os SVGs animados foram escritos à mão.</sub>
-
-### 06 · Canal Aberto &nbsp;<sub><samp>downlink</samp></sub>
+### 05 · Contato
 
 Sempre aberto a conversar sobre **IA, sistemas embarcados e projetos espaciais**.
 
@@ -101,4 +95,4 @@ Sempre aberto a conversar sobre **IA, sistemas embarcados e projetos espaciais**
   <a href="https://www.linkedin.com/in/matheus-lemes-amaral-877a71309/"><img src="https://img.shields.io/badge/LinkedIn-B6A0FF?style=for-the-badge&logo=linkedin&logoColor=0B1220" alt="LinkedIn" /></a>
 </p>
 
-<p align="center"><sub>Obrigado pela visita. Céu limpo! ✦</sub></p>
+<p align="center"><sub>Obrigado pela visita! ✦</sub></p>
