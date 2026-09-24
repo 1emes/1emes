@@ -21,15 +21,15 @@
   <a href="https://www.linkedin.com/in/matheus-lemes-amaral-877a71309/">LinkedIn</a>
 </p>
 
-### 01 · Launch Site &nbsp;<sub><samp>ground</samp></sub>
+### 01 · About
 
 I'm a Software Engineering student at the **University of Brasília (UnB/FCTE)** who likes software best when it touches the physical world.
 
-At **Laboratório Céu Aberto** I work on **stratospheric balloon missions**: embedded systems, telemetry and mission tracking. My current focus is **artificial intelligence**, especially **deep learning and computer vision**, and I build fullstack apps with TypeScript, React and Node when an idea needs an interface.
+My current focus is **artificial intelligence**, especially **deep learning and computer vision**. I also work with **embedded systems and telemetry**, and I build fullstack apps with TypeScript, React and Node when an idea needs an interface.
 
-### 02 · Flight Hardware &nbsp;<sub><samp>troposphere</samp></sub>
+### 02 · Labs & Teams
 
-- 🎈 **Laboratório Céu Aberto** — Stratospheric balloon missions: embedded systems, telemetry and mission tracking.
+- 🔬 **Laboratório Céu Aberto** — Embedded systems, telemetry and mission tracking for high-altitude missions.
 - 🛰️ **GamaCube Design** — CubeSat team at UnB/FCTE: electronics trainee program and remote sensing work.
 - 🔭 **LaSE · Sapiens-1** — Project of UnB's Space Systems Laboratory (Laboratório de Sistemas Espaciais).
 
@@ -41,7 +41,7 @@ At **Laboratório Céu Aberto** I work on **stratospheric balloon missions**: em
 </picture>
 </p>
 
-### 03 · Selected Signals &nbsp;<sub><samp>tropopause</samp></sub>
+### 03 · Featured Projects
 
 **[MRI-segmentation](https://github.com/1emes/MRI-segmentation)** &nbsp;<sub><samp>Python · computer vision</samp></sub><br />
 Brain tumor detection in magnetic resonance images.
@@ -66,7 +66,7 @@ A DS18B20 temperature sensor on an ESP microcontroller, served through its own e
 
 </details>
 
-### 04 · Instrument Rack &nbsp;<sub><samp>stratosphere</samp></sub>
+### 04 · Stack
 
 <p align="center">
 <picture>
@@ -85,13 +85,7 @@ A DS18B20 temperature sensor on an ESP microcontroller, served through its own e
   <tr><td><samp>Environment</samp></td><td><img src="https://img.shields.io/badge/Arch%20Linux-0B1220?style=flat-square&logo=archlinux&logoColor=1793D1" alt="Arch Linux" /> <img src="https://img.shields.io/badge/Hyprland-0B1220?style=flat-square&logo=hyprland&logoColor=58E1FF" alt="Hyprland" /> <img src="https://img.shields.io/badge/Vim-0B1220?style=flat-square&logo=vim&logoColor=019733" alt="Vim" /></td></tr>
 </table>
 
-### 05 · Working Loop &nbsp;<sub><samp>mesosphere</samp></sub>
-
-**Claude Code** and **OpenAI Codex** are part of my daily loop. I often run them side by side: one helps plan and review while the other explores or implements in parallel. The engineering decisions, and the validation of every result, stay with me.
-
-<sub>This README was redesigned exactly that way: Claude and GPT-6 Astra argued over the concept, GPT Image 2.5 painted the hero, and the animated SVGs were written by hand.</sub>
-
-### 06 · Open Channel &nbsp;<sub><samp>downlink</samp></sub>
+### 05 · Contact
 
 Always happy to talk about **AI, embedded systems and space projects**.
 
@@ -101,4 +95,4 @@ Always happy to talk about **AI, embedded systems and space projects**.
   <a href="https://www.linkedin.com/in/matheus-lemes-amaral-877a71309/"><img src="https://img.shields.io/badge/LinkedIn-B6A0FF?style=for-the-badge&logo=linkedin&logoColor=0B1220" alt="LinkedIn" /></a>
 </p>
 
-<p align="center"><sub>Thanks for stopping by. Clear skies! ✦</sub></p>
+<p align="center"><sub>Thanks for stopping by! ✦</sub></p>
