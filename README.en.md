@@ -4,13 +4,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-  <img width="100%" alt="Matheus Lemes — the GamaSat-01 CubeSat in orbit points its sensor at the ocean, where an oil slick is segmented and linked to a vessel's AIS position" src="./assets/hero-dark.svg" />
+  <img width="100%" alt="Matheus Lemes — an image flows through convolutional layers and a neural network to the predicted class" src="./assets/hero-dark.svg" />
 </picture>
 </p>
 
 <p align="center">
   <b>Software that senses the physical world — from sensor to neural network.</b><br />
-  <sub>Software Engineering @ UnB/FCTE · Brasília, Brazil · AI · Computer Vision · Embedded Systems</sub>
+  <sub>Software Engineering @ UnB · Brasília, Brazil · AI · Computer Vision · Embedded Systems</sub>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## Hi there! 👋
 
-I'm **Matheus**, a Software Engineering student at the **University of Brasília (UnB/FCTE)**. I like software that leaves the screen and touches the real world: cameras, sensors, satellites, and the models that make sense of the data they produce.
+I'm **Matheus**, a Software Engineering student at the **University of Brasília (UnB)**. I like software that leaves the screen and touches the real world: cameras, sensors, satellites, and the models that make sense of the data they produce.
 
 - 🧠 My current focus is **artificial intelligence**, especially **deep learning** and **computer vision**.
 - 🛰️ I'm a former member of **Gama CubeDesign**, where I took part in the **GamaSat-01** mission.
@@ -35,7 +35,7 @@ I'm **Matheus**, a Software Engineering student at the **University of Brasília
 <tr>
 <td>
 
-At **Gama CubeDesign**, UnB/FCTE's CubeSat team, I took part in the **GamaSat-01** mission for the **CubeDesign 2025** competition, working on the payload's **remote sensing**.
+At **Gama CubeDesign**, UnB's CubeSat team, I took part in the **GamaSat-01** mission for the **CubeDesign 2025** competition, working on the payload's **remote sensing**.
 
 The goal: from the images captured by the satellite, **detect oil slicks at sea** and **identify the vessel responsible**, cross-checking the slick's position against the **AIS** data of ships in the area.
 

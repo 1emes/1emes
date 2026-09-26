@@ -4,13 +4,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-  <img width="100%" alt="Matheus Lemes — o CubeSat GamaSat-01 em órbita aponta seu sensor para o oceano, onde uma mancha de óleo é segmentada e ligada à posição AIS de uma embarcação" src="./assets/hero-dark.svg" />
+  <img width="100%" alt="Matheus Lemes — uma imagem passa por camadas convolucionais e por uma rede neural até a classe prevista" src="./assets/hero-dark.svg" />
 </picture>
 </p>
 
 <p align="center">
   <b>Software que percebe o mundo físico — do sensor à rede neural.</b><br />
-  <sub>Engenharia de Software @ UnB/FCTE · Brasília · IA · Visão Computacional · Sistemas Embarcados</sub>
+  <sub>Engenharia de Software @ UnB · Brasília · IA · Visão Computacional · Sistemas Embarcados</sub>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## Olá! 👋
 
-Sou o **Matheus**, estudante de Engenharia de Software na **Universidade de Brasília (UnB/FCTE)**. Gosto de software que sai da tela e encosta no mundo real: câmeras, sensores, satélites e os modelos que dão sentido aos dados que eles geram.
+Sou o **Matheus**, estudante de Engenharia de Software na **Universidade de Brasília (UnB)**. Gosto de software que sai da tela e encosta no mundo real: câmeras, sensores, satélites e os modelos que dão sentido aos dados que eles geram.
 
 - 🧠 Meu foco hoje é **inteligência artificial** — em especial **deep learning** e **visão computacional**.
 - 🛰️ Fui integrante da **Gama CubeDesign**, onde participei da missão **GamaSat-01**.
@@ -35,7 +35,7 @@ Sou o **Matheus**, estudante de Engenharia de Software na **Universidade de Bras
 <tr>
 <td>
 
-Na **Gama CubeDesign**, equipe de CubeSat da UnB/FCTE, participei da missão **GamaSat-01** para a competição **CubeDesign 2025**, trabalhando no **sensoriamento remoto** da carga útil.
+Na **Gama CubeDesign**, equipe de CubeSat da UnB, participei da missão **GamaSat-01** para a competição **CubeDesign 2025**, trabalhando no **sensoriamento remoto** da carga útil.
 
 O objetivo: a partir das imagens capturadas pelo satélite, **detectar manchas de óleo no mar** e **identificar a embarcação responsável**, cruzando a posição da mancha com os dados **AIS** dos navios na região.
 
